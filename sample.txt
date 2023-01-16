@@ -1,1 +1,2 @@
-Hello all
+Hello all!
+This is the sample file to test.
